@@ -1,4 +1,0 @@
-For Dataset, Paste the  below link in your Colab notebook and extract  the zip  file to get train and test csv file.
-
-
-!wget -O "machine_learning_india_ai_challenge-dataset.zip" "https://dockship-job-models.s3.ap-south-1.amazonaws.com/66f283fd33eba21756522f1d21cef38d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDOPTEUZ2LEOQEGQ%2F20210105%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20210105T034750Z&X-Amz-Expires=1800&X-Amz-Signature=20ec336c18ed374c01de99733d74eec7f1150fec0a0583db99d93f167e98c340&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22machine_learning_india_ai_challenge-dataset.zip%22"
