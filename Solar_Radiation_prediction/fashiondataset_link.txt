@@ -1,0 +1,3 @@
+For Dataset,Paste the below link and extract the zip file to get test dataset and train the model using keras fashion mnist dataset
+
+!wget -O "fashion_mnist_classification_challenge-dataset.zip" "https://dockship-job-models.s3.ap-south-1.amazonaws.com/c4ce62b17b753bc2cd370fa77a7eaf99?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDOPTEUZ2LEOQEGQ%2F20210105%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20210105T041616Z&X-Amz-Expires=1800&X-Amz-Signature=31b2fb04bad79d389f376f92648209a2ff91303ef6444414c032abcbb1f89980&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22fashion_mnist_classification_challenge-dataset.zip%22"
